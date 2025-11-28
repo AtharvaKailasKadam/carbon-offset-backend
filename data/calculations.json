@@ -1,0 +1,22 @@
+[
+  {
+    "id": "1764358594307",
+    "industryName": "Tata Steel",
+    "carbonEmissionTons": 1000,
+    "region": "India",
+    "industryType": "Heavy Manufacturing",
+    "treesRequired": 47620,
+    "reasoning": "Based on average absorption of 21kg CO2/year per tree, 47620 trees are needed.",
+    "recommendedSpecies": [
+      "Oak",
+      "Pine",
+      "Maple"
+    ],
+    "additionalStrategies": [
+      "Renewable energy",
+      "Energy efficiency"
+    ],
+    "createdAt": "2025-11-28T19:36:34.307Z",
+    "userId": null
+  }
+]
