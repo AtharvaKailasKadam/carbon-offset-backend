@@ -18,5 +18,145 @@
     ],
     "createdAt": "2025-11-28T19:36:34.307Z",
     "userId": null
+  },
+  {
+    "id": "1764387075878",
+    "industryName": "HCLIndustries",
+    "carbonEmissionTons": 100,
+    "region": "India",
+    "industryType": "Manufacturing",
+    "treesRequired": 4762,
+    "reasoning": "Based on average absorption of 21kg CO2/year per tree, 4762 trees are needed.",
+    "recommendedSpecies": [
+      "Oak",
+      "Pine",
+      "Maple"
+    ],
+    "additionalStrategies": [
+      "Renewable energy",
+      "Energy efficiency"
+    ],
+    "createdAt": "2025-11-29T03:31:15.878Z",
+    "userId": null
+  },
+  {
+    "id": "1764387078094",
+    "industryName": "HCLIndustries",
+    "carbonEmissionTons": 100,
+    "region": "India",
+    "industryType": "Manufacturing",
+    "treesRequired": 4762,
+    "reasoning": "Based on average absorption of 21kg CO2/year per tree, 4762 trees are needed.",
+    "recommendedSpecies": [
+      "Oak",
+      "Pine",
+      "Maple"
+    ],
+    "additionalStrategies": [
+      "Renewable energy",
+      "Energy efficiency"
+    ],
+    "createdAt": "2025-11-29T03:31:18.094Z",
+    "userId": null
+  },
+  {
+    "id": "1764387226581",
+    "industryName": "HCLIndustries",
+    "carbonEmissionTons": 100,
+    "region": "India",
+    "industryType": "Manufacturing",
+    "treesRequired": 4762,
+    "reasoning": "Based on average absorption of 21kg CO2/year per tree, 4762 trees are needed.",
+    "recommendedSpecies": [
+      "Oak",
+      "Pine",
+      "Maple"
+    ],
+    "additionalStrategies": [
+      "Renewable energy",
+      "Energy efficiency"
+    ],
+    "createdAt": "2025-11-29T03:33:46.581Z",
+    "userId": null
+  },
+  {
+    "id": "1764387226895",
+    "industryName": "HCLIndustries",
+    "carbonEmissionTons": 100,
+    "region": "India",
+    "industryType": "Manufacturing",
+    "treesRequired": 4762,
+    "reasoning": "Based on average absorption of 21kg CO2/year per tree, 4762 trees are needed.",
+    "recommendedSpecies": [
+      "Oak",
+      "Pine",
+      "Maple"
+    ],
+    "additionalStrategies": [
+      "Renewable energy",
+      "Energy efficiency"
+    ],
+    "createdAt": "2025-11-29T03:33:46.895Z",
+    "userId": null
+  },
+  {
+    "id": "1764394710287",
+    "industryName": "HCLIndustries",
+    "carbonEmissionTons": 100,
+    "region": "India",
+    "industryType": "Manufacturing",
+    "treesRequired": 4762,
+    "reasoning": "Based on average absorption of 21kg CO2/year per tree, 4762 trees are needed.",
+    "recommendedSpecies": [
+      "Oak",
+      "Pine",
+      "Maple"
+    ],
+    "additionalStrategies": [
+      "Renewable energy",
+      "Energy efficiency"
+    ],
+    "createdAt": "2025-11-29T05:38:30.287Z",
+    "userId": null
+  },
+  {
+    "id": "1764394712601",
+    "industryName": "HCLIndustries",
+    "carbonEmissionTons": 100,
+    "region": "India",
+    "industryType": "Manufacturing",
+    "treesRequired": 4762,
+    "reasoning": "Based on average absorption of 21kg CO2/year per tree, 4762 trees are needed.",
+    "recommendedSpecies": [
+      "Oak",
+      "Pine",
+      "Maple"
+    ],
+    "additionalStrategies": [
+      "Renewable energy",
+      "Energy efficiency"
+    ],
+    "createdAt": "2025-11-29T05:38:32.601Z",
+    "userId": null
+  },
+  {
+    "id": "1764394786130",
+    "industryName": "HCLIndustries",
+    "carbonEmissionTons": 100,
+    "region": "India",
+    "industryType": "Manufacturing",
+    "treesRequired": 4762,
+    "reasoning": "Based on average absorption of 21kg CO2/year per tree, 4762 trees are needed.",
+    "recommendedSpecies": [
+      "Oak",
+      "Pine",
+      "Maple"
+    ],
+    "additionalStrategies": [
+      "Renewable energy",
+      "Energy efficiency"
+    ],
+    "createdAt": "2025-11-29T05:39:46.130Z",
+    "userId": null
   }
 ]

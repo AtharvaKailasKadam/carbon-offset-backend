@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "id": "1764386250594",
+    "email": "atharvakailaskadam18@gmail.com",
+    "passwordHash": "$2a$10$ClkKDUFyUSmrNhWDfcp2u.QhVowSg3gm/xd0yPK5mqfrYlx./YTgW",
+    "name": "Atharva",
+    "createdAt": "2025-11-29T03:17:30.594Z"
+  }
+]
